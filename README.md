@@ -1,0 +1,1 @@
+# xd-plugin-create-color-palette
